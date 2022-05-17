@@ -28,10 +28,10 @@ minSdkVersion 25
 targetSdkVersion 30
 
 ## Видео-ролик работы приложения
-[![Short demonstration of the project](https://img.youtube.com/vi/YM6bWViVhCI/maxresdefault.jpg)](https://youtu.be/YM6bWViVhCI)
+[![Short demonstration of the project](https://img.youtube.com/vi/YM6bWViVhCI/maxresdefault.jpg)](https://www.youtube.com/watch?v=M0tGRb7HTrM)
 
 
 ## Прочая информация
-Данный проект был разработан для аттестации курса IT Academy Samsung.
+Данный проект был разработан для аттестации по курсу IT Academy Samsung.
 
 
