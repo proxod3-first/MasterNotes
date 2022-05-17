@@ -28,7 +28,7 @@ minSdkVersion 25
 targetSdkVersion 30
 
 ## Видео-ролик работы приложения
-[![Short demonstration of the project](https://img.youtube.com/vi/watch?v=M0tGRb7HTrM/maxresdefault.jpg)](https://www.youtube.com/watch?v=M0tGRb7HTrM)
+[![Short demonstration of the project](https://img.youtube.com/vi/watch?v=1Kll6LdH2Jo/maxresdefault.jpg)](https://www.youtube.com/watch?v=1Kll6LdH2Jo)
 
 
 ## Прочая информация
