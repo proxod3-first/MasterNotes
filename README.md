@@ -29,7 +29,7 @@ targetSdkVersion 30
 
 
 ## Видео-ролик работы приложения
-[![Short demonstration of the project](https://img.youtube.com/vi/1Kll6LdH2Jo/maxresdefault.jpg)](https://www.youtube.com/watch?v=1Kll6LdH2Jo)
+[![Short demonstration of the project](https://img.youtube.com/vi/eeT-KUtd5sk/maxresdefault.jpg)](https://www.youtube.com/watch?v=eeT-KUtd5sk)
 
 
 ## Прочая информация
