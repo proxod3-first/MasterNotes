@@ -3,13 +3,14 @@
     package="com.proxo.MasterNotes">
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/list"
         android:label="@string/app_name"
         android:name="com.proxo.MasterNotes.Main"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/list"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:icon="@drawable/list"
             android:name="com.proxo.MasterNotes.screens.main.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
